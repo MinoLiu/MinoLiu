@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Sean2525/Sean2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <p align="center">Hi there 👋, I'm Mino.</p>
+<p align="center">
+  A CS master student.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats.vercel.app/api?username=sean2525&show_icons=true&theme=react&hide_border=true>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src=http://github-readme-streak-stats.herokuapp.com?user=Sean2525&theme=react&hide_border=true>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sean2525&layout=compact&theme=react&hide=Shell,Jupyter%20Notebook&hide_border=true>
+  </a>
+</p>
