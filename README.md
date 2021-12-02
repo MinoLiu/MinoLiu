@@ -1,7 +1,7 @@
 
 ### <p align="center">Hi there 👋, I'm Mino.</p>
 <p align="center">
-  A CS master student.
+  A software engineer.
 </p>
 
 <p align="center">
